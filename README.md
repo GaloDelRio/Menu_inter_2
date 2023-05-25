@@ -11,4 +11,22 @@ En terminos más simple
 
 ## Limitaciones
 
-No se puede cambiar o poner nombres alternos para los tipos de comida, no se selecciona la cantidad de comida, por lo que se tiene que uzar el menu vaarias veces.
+No se puede cambiar o poner nombres alternos para los tipos de comida.
+No puede seleccionar la cantidad de comida, por lo que se tiene que usar el menu vaarias veces.
+Solo puede pasar nu cliente por uso del programa.
+No se pueden poner valores negativos ni floats. 
+Por el momento no va a poder hacer delete a clases ya creadas.
+El progrma so se va ha cerrar cuando estes en la seccion del menu e ingreses "5"
+
+
+## Consideraciones
+
+El programa solo corre en la consola y está hecho con c++ standard por lo que corre en todos los sistemas operativos
+
+compilar con: "g++ Menu_2.h main.cpp"
+correr en linux: "/a.out"
+
+## Instrucciones
+
+\\A futuro
+correr en windows: "a.exe"
