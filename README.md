@@ -1,4 +1,4 @@
-# Menu_inter_2
+# Menu interctivo 2_Galo del Rio Viggiano A01710791
 ## Contexto
 En este proyecto, utilizaremos los principios de la POO para diseñar un sistema eficiente y flexible que permita a los usuarios ver, seleccionar y ordenar diferentes platos y opciones de comida.
 
