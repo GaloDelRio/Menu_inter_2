@@ -14,8 +14,9 @@ En terminos más simple
 <li type="disc">No se puede cambiar o poner nombres alternos para los tipos de comida.</li>
 <li type="disc">No puede seleccionar la cantidad de comida.</li>
 <li type="disc">Por lo que se tiene que usar el menu vaarias veces.</li>
-<li type="disc">Solo puede pasar nu cliente por uso del programa.</li>
+<li type="disc">Solo puede pasar un cliente por uso del programa.</li>
 <li type="disc">No se pueden poner valores negativos ni floats. </li>
+<li type="disc">Además de que si se pone un  string donde se te pide un int se corre infinitamente el programa. </li>
 <li type="disc">Por el momento no va a poder hacer delete a clases ya creadas. </li>
 <li type="disc">El progrma so se va ha cerrar cuando estes en la seccion del menu e ingreses "5" </li>
 
