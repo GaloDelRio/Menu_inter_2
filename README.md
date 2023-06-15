@@ -18,7 +18,7 @@ En terminos más simple
 <li type="disc">No se pueden poner valores negativos ni floats. </li>
 <li type="disc">Además de que si se pone un  string donde se te pide un int se corre infinitamente el programa. </li>
 <li type="disc">Por el momento no va a poder hacer delete a clases ya creadas. </li>
-<li type="disc">El progrma so se va ha cerrar cuando estes en la seccion del menu e ingreses "5" </li>
+<li type="disc">El progrma solo se va ha cerrar cuando estes en la seccion del menu ingresando "5" </li>
 
 
 ## Consideraciones
@@ -29,6 +29,8 @@ compilar con: "g++ Menu_2.h main.cpp"
 correr en linux: "/a.out"
 
 ## Instrucciones
+
+Abrir el programa primero se nos hace un display
 
 \\A futuro
 correr en windows: "a.exe"
